@@ -1,0 +1,25 @@
+School Management system description:
+
+
+Maintain students, teachers and funds.
+
+//Money management system for school.
+
+Kepp track of students total fee.
+fee already paid.
+teacher salaries.
+
+Main components of system:
+
+1. School:
+Teachers, students, total money earned, Total money spent (we will only take teacher salaries as the school expenses.)
+
+2. Teacher:
+id, name, salary
+
+3. Student:
+id, name, grade, fee paid, fees total
+
+
+
+OOP concepts to be used:
